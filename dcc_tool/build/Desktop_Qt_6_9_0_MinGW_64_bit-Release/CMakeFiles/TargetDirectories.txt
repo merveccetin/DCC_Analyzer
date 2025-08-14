@@ -1,0 +1,11 @@
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/intrinsics_gen.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/vt_gen.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/omp_gen.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/acc_gen.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/ARMTargetParserTableGen.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/AArch64TargetParserTableGen.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/RISCVTargetParserTableGen.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/clang-tablegen-targets.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/dcc_tool.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir

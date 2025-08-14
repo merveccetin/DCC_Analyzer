@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -D_FILE_OFFSET_BITS=\"64 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS\" -IC:/msys64/mingw64/include  -Wa,-mbig-obj -O3 -DNDEBUG -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\dcc_tool.dir\\main.cpp.obj -c C:\\Users\\merve\\Desktop\\dcc_tool\\main.cpp",
+  "file": "C:\\Users\\merve\\Desktop\\dcc_tool\\main.cpp",
+  "output": "CMakeFiles\\dcc_tool.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -D_FILE_OFFSET_BITS=\"64 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS\" -IC:/msys64/mingw64/include  -Wa,-mbig-obj -O3 -DNDEBUG -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\dcc_tool.dir\\DCCVisitor.cpp.obj -c C:\\Users\\merve\\Desktop\\dcc_tool\\DCCVisitor.cpp",
+  "file": "C:\\Users\\merve\\Desktop\\dcc_tool\\DCCVisitor.cpp",
+  "output": "CMakeFiles\\dcc_tool.dir\\DCCVisitor.cpp.obj"
+},
+{
+  "directory": "C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -D_FILE_OFFSET_BITS=\"64 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS\" -IC:/msys64/mingw64/include  -Wa,-mbig-obj -O3 -DNDEBUG -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\dcc_tool.dir\\DCCConsumer.cpp.obj -c C:\\Users\\merve\\Desktop\\dcc_tool\\DCCConsumer.cpp",
+  "file": "C:\\Users\\merve\\Desktop\\dcc_tool\\DCCConsumer.cpp",
+  "output": "CMakeFiles\\dcc_tool.dir\\DCCConsumer.cpp.obj"
+}
+]

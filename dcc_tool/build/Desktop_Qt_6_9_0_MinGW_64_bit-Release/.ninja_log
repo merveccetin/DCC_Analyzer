@@ -1,0 +1,11 @@
+# ninja log v6
+43	5195	7768953763169971	CMakeFiles/dcc_tool.dir/main.cpp.obj	e2723aea238268be
+50	8652	7768953763239986	CMakeFiles/dcc_tool.dir/DCCConsumer.cpp.obj	c70f6666d64352ff
+47	9129	7768953763209982	CMakeFiles/dcc_tool.dir/DCCVisitor.cpp.obj	6c4a91e34bf78d62
+61	70	7768958268100175	clean	577b940aee94fbd7
+9143	9337	7768953854177305	dcc_tool.exe	fa6d9aa974e6a3c2
+38	471	7768958348623347	build.ninja	6112f564059ab973
+64	5193	7768958905053964	CMakeFiles/dcc_tool.dir/main.cpp.obj	e2723aea238268be
+73	8633	7768958905142977	CMakeFiles/dcc_tool.dir/DCCConsumer.cpp.obj	c70f6666d64352ff
+69	9106	7768958905092981	CMakeFiles/dcc_tool.dir/DCCVisitor.cpp.obj	6c4a91e34bf78d62
+9109	9305	7768958995500552	dcc_tool.exe	fa6d9aa974e6a3c2

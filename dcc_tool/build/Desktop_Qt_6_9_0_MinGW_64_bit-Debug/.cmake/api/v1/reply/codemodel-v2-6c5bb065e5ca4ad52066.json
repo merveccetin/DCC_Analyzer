@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dcc_tool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AArch64TargetParserTableGen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AArch64TargetParserTableGen-Debug-3cab4900b242ca6cb381.json",
+					"name" : "AArch64TargetParserTableGen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ARMTargetParserTableGen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ARMTargetParserTableGen-Debug-819400c2606ae6c43117.json",
+					"name" : "ARMTargetParserTableGen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RISCVTargetParserTableGen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RISCVTargetParserTableGen-Debug-32b904c9ba17dc85afda.json",
+					"name" : "RISCVTargetParserTableGen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "acc_gen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-acc_gen-Debug-b8e2c620f5398046ca05.json",
+					"name" : "acc_gen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clang-tablegen-targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clang-tablegen-targets-Debug-894eb0f125a5720d7970.json",
+					"name" : "clang-tablegen-targets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dcc_tool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dcc_tool-Debug-66c09502d196454cd6aa.json",
+					"name" : "dcc_tool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "intrinsics_gen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intrinsics_gen-Debug-3d21dff9b5c76597ae18.json",
+					"name" : "intrinsics_gen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omp_gen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omp_gen-Debug-56057aefdcc2bc6f8130.json",
+					"name" : "omp_gen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vt_gen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vt_gen-Debug-96720385f27aef128d9c.json",
+					"name" : "vt_gen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/merve/Desktop/dcc_tool/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/merve/Desktop/dcc_tool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
